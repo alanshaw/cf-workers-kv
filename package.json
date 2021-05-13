@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alanshaw/cf-workers-memkv.git"
+    "url": "git+https://github.com/alanshaw/cf-workers-kv.git"
   },
   "bugs": {
-    "url": "https://github.com/alanshaw/cf-workers-memkv/issues"
+    "url": "https://github.com/alanshaw/cf-workers-kv/issues"
   },
-  "homepage": "https://github.com/alanshaw/cf-workers-memkv#readme"
+  "homepage": "https://github.com/alanshaw/cf-workers-kv#readme"
 }
